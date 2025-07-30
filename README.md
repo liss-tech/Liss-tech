@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Liss <img height="40" src="https://i.gifer.com/3BBS.gif"></h1>
+<h1 align="center">Hi 👋, I'm Liss <img height="40" src="https://i.gifer.com/3BBS.gif" alt="coding header image"></h1>
+
 <h3 align="center">A passionate Full - Stack developer from Spain</h3>
 
 - 🔭 I’m currently working on my **GitHub repository**
 
-- 🌱 I’m currently learning **CI/CD, Terraform**
+- 🌱 I’m currently learning **CI/CD, Terraform, AI Gen**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
@@ -17,9 +18,50 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabeth-recalde-zurita/)
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elizabeth.rec.zur@gmail.com)
-  
+
 </div>
 
+ ## 🛠️ My Skills
+-------------------
+### Programming languages:
+&emsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
+### Frontend development:
+&emsp;
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+
+### Misc tools:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+
+### Remote collaboration tools: 
+&emsp;
+![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
+![Zoom](https://img.shields.io/badge/-Zoom-000?&logo=Zoom)
+![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion)
+
+### Databases:
+&emsp;
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+
+### DevOps:
+&emsp;
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
+&emsp; 
+<!--
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
@@ -39,17 +81,13 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
-
+-->
 ------
 
 [Liss-tech](https://github.com/Liss-tech)
 
-Last Edited on: 29/07/2025
+Last Edited on: 30/07/2025
 <!--
-**liss-tech/Liss-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
