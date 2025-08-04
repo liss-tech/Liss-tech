@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my **GitHub repository**
 
-- 🌱 I’m currently learning **CI/CD, Terraform, AI Gen**
+- 🌱 I’m currently learning **CI/CD, Terraform, Generative AI**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
