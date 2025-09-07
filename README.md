@@ -34,9 +34,16 @@
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+
+### Backend development:
+&emsp;
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+![RESTfulAPIs](https://img.shields.io/badge/-RESTfulApis-000?&logo=RESTfulApis)
 
 ### Misc tools:
 &emsp;
@@ -86,7 +93,7 @@
 
 [Liss-tech](https://github.com/Liss-tech)
 
-Last Edited on: 30/07/2025
+Last Edited on: 07/09/2025
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
